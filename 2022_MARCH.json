@@ -1,0 +1,103 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 175752280,
+        "longitudeE7": -995234053,
+        "placeId": "ChIJY8l7Bt7sy4URj6e4Ry4ZlYc",
+        "address": "Parotas MZ 9\nZona Sin Asignación de Nombre de Col 68\n39016 Chilpancingo de los Bravo, Gro.\nMéxico",
+        "name": "Parotas MZ 9",
+        "sourceInfo": {
+          "deviceTag": 675318037
+        },
+        "locationConfidence": 33.452087,
+        "calibratedProbability": 28.850224
+      },
+      "duration": {
+        "startTimestamp": "2022-03-29T01:22:30.015Z",
+        "endTimestamp": "2022-03-29T02:39:41.335Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 175753115,
+      "centerLngE7": -995230850,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 175754701,
+        "longitudeE7": -995231841,
+        "placeId": "ChIJ-_rvXuvty4UR4xu3ZuTpf-4",
+        "address": "Parotas\nZona Sin Asignación de Nombre de Col 68\n39016 Chilpancingo de los Bravo, Gro.\nMéxico",
+        "name": "Pozolería Café Tacuba",
+        "locationConfidence": 21.274263,
+        "calibratedProbability": 18.347652
+      }, {
+        "latitudeE7": 175756342,
+        "longitudeE7": -995227924,
+        "placeId": "ChIJf2oJqODsy4UR1eYB-t_90Ts",
+        "address": "Tepocalli 55\nTlalmecat\n39016 Chilpancingo de los Bravo, Gro.\nMéxico",
+        "name": "Tepocalli 55",
+        "locationConfidence": 11.844348,
+        "calibratedProbability": 10.214971
+      }, {
+        "latitudeE7": 175756141,
+        "longitudeE7": -995228079,
+        "placeId": "ChIJLYQPqODsy4URAsSYx9Dtabo",
+        "address": "Tepocalli 53\nTlalmecat\n39016 Chilpancingo de los Bravo, Gro.\nMéxico",
+        "name": "Tepocalli 53",
+        "locationConfidence": 6.9010043,
+        "calibratedProbability": 5.951662
+      }, {
+        "latitudeE7": 175752061,
+        "longitudeE7": -995234017,
+        "placeId": "ChIJv2dhbrPty4URLIKh4HZJnk8",
+        "address": "parotas\nNorte mz9\nZona Sin Asignación de Nombre de Col 68\n39018 Chilpancingo de los Bravo, Gro.\nMéxico",
+        "name": "papeleria",
+        "locationConfidence": 2.0646393,
+        "calibratedProbability": 1.7806156
+      }, {
+        "latitudeE7": 175741919,
+        "longitudeE7": -995218253,
+        "placeId": "ChIJsXFZT-fsy4URtRkfh98SMeE",
+        "address": "Atoyac\nSan Rafael Nte\n39016 Chilpancingo de los Bravo, Gro.\nMéxico",
+        "name": "tortillería \"LIZ\"",
+        "locationConfidence": 2.0274663,
+        "calibratedProbability": 1.7485563
+      }, {
+        "latitudeE7": 175726644,
+        "longitudeE7": -995241935,
+        "placeId": "ChIJQ2u6yuvty4URyWAAeKZZ5sk",
+        "address": "Bosques de las Lomas\nZona Sin Asignación de Nombre de Col 68\n39018 Chilpancingo de los Bravo, Gro.\nMéxico",
+        "name": "CASAS GEO",
+        "locationConfidence": 1.3018085,
+        "calibratedProbability": 1.1227242
+      }, {
+        "latitudeE7": 175745264,
+        "longitudeE7": -995204388,
+        "placeId": "ChIJ3R19ARPty4URKhBsiJRm0yE",
+        "address": "Calle Petatlan, Lote 1\nManzana VI Col\nSan Rafael Nte\n39016 Chilpancingo de los Bravo, Gro.\nMéxico",
+        "name": "Neto Amate 1019",
+        "locationConfidence": 0.8071019,
+        "calibratedProbability": 0.6960723
+      }, {
+        "latitudeE7": 175758762,
+        "longitudeE7": -995241775,
+        "placeId": "ChIJxfaNW7Xty4URhf91Zdd7CX0",
+        "address": "Calle guerrero Col lomas de chapultepec\nZona Sin Asignación de Nombre de Col 68\n39018 Chilpancingo de los Bravo, Gro.\nMéxico",
+        "name": "Micselanea tere",
+        "locationConfidence": 0.7965124,
+        "calibratedProbability": 0.68693954
+      }, {
+        "latitudeE7": 175754611,
+        "longitudeE7": -995207572,
+        "placeId": "ChIJEYVdDibty4URj8OqBBXSp0c",
+        "address": "Jv.0072@gmail.com\nAtlamajalcingo\nAmate\n39016 Chilpancingo de los Bravo, Gro.\nMéxico",
+        "name": "OXXO",
+        "locationConfidence": 0.77267534,
+        "calibratedProbability": 0.6663816
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 26,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}
